@@ -30,7 +30,13 @@ body
       font-size: 4rem;
       font-family: 'Franklin Gothic Medium';
       text-transform: uppercase;
-      color: white
+      color: black
+  }
+
+  h1:hover{
+    background-color: aqua;
+    
+    text-shadow: 100px;
   }
   
   
